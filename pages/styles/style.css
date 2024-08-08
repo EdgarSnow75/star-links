@@ -62,13 +62,14 @@ body {
 
 .header {
   background-color: #1f2937;
-  padding: 2rem 4rem;
+  padding: 4rem;
+  padding-top: 2rem;
 }
 
 .nav {
   display: flex;
   align-items: center;
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
 }
 
 .nav-links-container {
@@ -140,7 +141,7 @@ body {
 }
 
 .feature {
-  padding: 2rem 4rem;
+  padding: 4rem;
 }
 
 .feature-title {
