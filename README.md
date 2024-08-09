@@ -2,7 +2,7 @@
 
 
 ## Description
-This is my showcase of a brand landing page that will primary focus on araising **brand awareness** and act as a **lead generation** for the company. This project will mainly use **HTML5** and **CSS** along with a JavaScript framework conversion down the line.
+This is my showcase of a brand landing page that will primary focus on araising **brand awareness** and act as a **lead generation** for the company. This project will mainly use **HTML5** and **CSS** along with a JavaScript framework conversion down the line. You can check the work-in-progress here: [Star-Links](https://edgarsnow75.github.io/star-links/)
 
 ## About the company 
 Star Links is an internet service provider based in Thailand. They are relatively new to the industry and are trying to make a name for themselves. 
